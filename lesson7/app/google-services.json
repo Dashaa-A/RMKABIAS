@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298524280476",
+    "project_id": "afanasovadefirebase",
+    "storage_bucket": "afanasovadefirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298524280476:android:825c48cdf03fdec7b8cf59",
+        "android_client_info": {
+          "package_name": "com.mirea.afanasovade.lesson7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsLsf0Dco5g2PWv9MygqzxYzZLWa9xSB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

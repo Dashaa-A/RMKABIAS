@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "298524280476",
+    "project_id": "afanasovadefirebase",
+    "storage_bucket": "afanasovadefirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298524280476:android:825c48cdf03fdec7b8cf59",
+        "android_client_info": {
+          "package_name": "com.mirea.afanasovade.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298524280476-0d0m24qf3f1l4j1klfc5i801spgi4fni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mirea.afanasovade.firebaseauth",
+            "certificate_hash": "604204f91540b2c47b2bda55c85b3ae257ae0be9"
+          }
+        },
+        {
+          "client_id": "298524280476-q03gujadghebsfdjaqrqgjch9k6m40o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsLsf0Dco5g2PWv9MygqzxYzZLWa9xSB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298524280476-q03gujadghebsfdjaqrqgjch9k6m40o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
